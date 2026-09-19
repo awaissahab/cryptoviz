@@ -1,4 +1,3 @@
---- README.md (原始)
 # CryptoViz - Interactive Cryptography Visualizer
 
 An educational web application that visualizes cryptographic algorithms step-by-step, making complex encryption concepts accessible to beginners.
